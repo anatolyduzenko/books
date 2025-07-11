@@ -6,7 +6,7 @@
 | 2 | Drupal 10 Masterclass | Adam Bergstein | &check; |
 | 3 | Семь баз данных за семь недель | Эрик Редмонд | &check; |
 | 4 | Test-Driven Development in PHP 8 | Rainier Sarabia | &check; |
-| 5 | Domain-Driven Design: Tackling Complexity in the Heart of Software | Eric Evans ||
+| 5 | Domain-Driven Design: Tackling Complexity in the Heart of Software | Eric Evans | &check; |
 | 6 | Алгоритмы.Аха! | Лей Аха | &check; |
 | 7 | Чистая архитектура | Мартин Роберт | |
 | 8 | Как пасти котов | Дж Ханк Рейнвотер | ~10% |
